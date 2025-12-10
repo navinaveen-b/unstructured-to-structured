@@ -1,0 +1,38 @@
+#core
+numpy
+pandas
+python-dotenv
+tqdm
+loguru
+
+#unstructure text processing
+nltk
+spacy
+textblob
+gensim
+beautifulsoup4
+lxml
+
+#Document parsing
+pdfplumber
+pyPDF2
+pdf2image
+pytesseract
+pillow
+python-docx
+docx2txt
+openpyxl
+
+#AI-Based structuring / NLP Models
+sentence-transformers
+scikit-learn
+torch
+transformers
+unstructured
+unstructured[local-inference]
+langchain
+llama-index
+tiktoken
+
+#Optional (LLM API Support)
+
