@@ -31,6 +31,8 @@ pipeline {
             steps {
                 sh '''
                     . $VENV/bin/activate
+                     which python
+    		     python --version
                     python src/main.py
                 '''
             }
